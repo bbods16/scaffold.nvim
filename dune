@@ -1,0 +1,4 @@
+; Warnings are shown but never stop the build while you are learning.
+(env
+ (_
+  (flags (:standard -warn-error -a))))

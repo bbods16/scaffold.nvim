@@ -1,0 +1,4 @@
+(test
+ (name main)
+ (libraries scaffold ounit2)
+ (flags (:standard -w -a)))
